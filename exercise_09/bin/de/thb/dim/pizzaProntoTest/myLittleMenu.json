@@ -1,0 +1,86 @@
+{
+    "name": "My little Menu",
+    "dishes": [
+        {
+            "type": "Pizza",
+            "nr": 30,
+            "name": "Popey",
+            "size": 1,
+            "price": 8.5,
+            "ingredients": [
+                "Schinken",
+                "Spinat",
+                "Champignon",
+                "Ei"
+            ]
+        },
+        {
+            "type": "Pizza",
+            "nr": 30,
+            "name": "Popey ",
+            "size": 2,
+            "price": 9.5,
+            "ingredients": [
+                "Schinken",
+                "Spinat",
+                "Champignon",
+                "Ei"
+            ]
+        },
+        {
+            "type": "Pasta",
+            "nr": 13,
+            "name": "Bolognese",
+            "typeOfPasta": 4,
+            "price": 6.5,
+            "ingredients": [
+                "Hackfleisch",
+                "Tomaten",
+                "Parmesan"
+            ]
+        },
+        {
+            "type": "Pasta",
+            "nr": 13,
+            "name": "Bolognese",
+            "typeOfPasta": 5,
+            "price": 6.5,
+            "ingredients": [
+                "Hackfleisch",
+                "Tomaten",
+                "Parmesan"
+            ]
+        },
+        {
+            "type": "Pasta",
+            "nr": 13,
+            "name": "Bolognese",
+            "typeOfPasta": 6,
+            "price": 6.5,
+            "ingredients": [
+                "Hackfleisch",
+                "Tomaten",
+                "Parmesan"
+            ]
+        },
+        {
+            "type": "Dessert",
+            "nr": 21,
+            "name": "Hausgemachtes Tiramisu",
+            "price": 4.4,
+            "ingredients": [
+                "Sahne"
+            ]
+        },
+        {
+            "type": "Dessert",
+            "nr": 22,
+            "name": "Obstsalat",
+            "price": 4.4,
+            "ingredients": [
+                "Obst",
+                "Mandeln"
+            ]
+        }
+    ]
+}
